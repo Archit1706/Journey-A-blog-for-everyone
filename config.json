@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/journey",
+        "production_uri": "mysql://username:password@localhost/db_name",
+        "twitter_url": "https://twitter.com/ArchitRathod_17",
+        "linkedin_url": "https://www.linkedin.com/in/archit-rathod/",
+        "github_url": "https://github.com/Archit1706",
+        "blog_name": "Journey!",
+        "subheading": "A place where you share, grow and inspire!",
+        "owner_name": "Archit Rathod",
+        "gmail_user": "arcitrathod77@gmail.com",
+        "gmail_password": "your_password😂"
+    }
+
+}
